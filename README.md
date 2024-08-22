@@ -1,5 +1,5 @@
 # DA_Project
-SECTION A Data Joining using dplyr 
+**SECTION A Data Joining using dplyr**
 The anonymized dataset from Olist Store, capturing a wealth of ecommerce 
 transactions across Brazil's marketplaces from 2016 to 2018. Encompassing data 
 from 100,000 orders, this rich dataset presents multifaceted views of order details, 
@@ -8,7 +8,7 @@ tied to geographic coordinates via a comprehensive geolocation dataset. For priv
 any company-specific references in customer reviews have been creatively 
 substituted with fictional names from a renowned fantasy series.
 
-SECTION B: Visualization using ggplot2  
+**SECTION B: Visualization using ggplot2**  
 The article “customer sales analysis.pdf” investigates the power of diverse data 
 visualization techniques in uncovering latent trends and patterns within customer sales 
 data, a key driver of strategic decision-making in modern businesses. By utilizing a 
